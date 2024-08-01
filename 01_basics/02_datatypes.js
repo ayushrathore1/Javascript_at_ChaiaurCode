@@ -4,9 +4,13 @@
 
 // alert(3+3); We are using Node.js not Browser.
 
+/*
+console.log(3+3) console.log("Jai Bhole Baba") we get an error here because the ;(semicolon) is missing hereso make sure that
+Code Readability should be on high priority 
+*/
+
 console.log(3+3)
 
-// Code Readability should be on high priority
 
 console.log("Jai Bhole Baba")
 
@@ -16,10 +20,10 @@ let age = 18
 let isLoggedin = false
 let state;
 
-// number =>  2 to the power 53
+// number =>  2 to the power 53 (Range)
 // bigint 
-//string => ""
-// boolean => True/False
+//string => "something"
+// boolean => true/false
 // null => standalone value
 // undefined =>
 // symbol => unique
@@ -29,5 +33,5 @@ let state;
 // object
 
 console.log(typeof undefined); // undefined
-console.log(typeof null); // object
+console.log(typeof null); // object // null is an object
 

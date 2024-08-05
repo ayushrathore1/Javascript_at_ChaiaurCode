@@ -46,3 +46,23 @@ const myfunction = function(){
 console.log(typeof heroes); // object
 console.log(typeof myobj); // object
 console.log(typeof myfunction); // function
+
+
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack(Primitive), Heap(Non-Primitive)
+
+let myYoutubename = "hiteshchoudharydotcom"
+
+let anothername = "myYoutubename"
+anothername = "chaiaurcode"
+console.log(anothername);
+console.log(myYoutubename);
+
+
+let userOne = {
+    email: "user@google.com",
+    upi : "user@ybl"
+
+}

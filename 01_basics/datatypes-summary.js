@@ -49,7 +49,7 @@ console.log(typeof myfunction); // function
 
 
 
-// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// +++++++++++++++++++++++++++ MemoryTypes +++++++++++++++++++++++++++++++
 
 // Stack(Primitive), Heap(Non-Primitive)
 

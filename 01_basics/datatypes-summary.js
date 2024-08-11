@@ -57,9 +57,12 @@ let myYoutubename = "hiteshchoudharydotcom"
 
 let anothername = "myYoutubename"
 anothername = "chaiaurcode"
-console.log(anothername);
-console.log(myYoutubename);
+console.log(anothername); // chaiaurcode
+console.log(myYoutubename);// hiteshchoudharydotcom
 
+/*
+myYoutubename and another name are Strings So they use the Stack Memory Type.
+*/
 
 let userOne = {
     email: "user@google.com",
@@ -71,5 +74,9 @@ let userTwo = userOne
 
 userOne.email = "hitesh@google.com"
 
-console.log(userOne.email);
-console.log(userTwo.email);
+console.log(userOne.email);// hitesh@google.com
+console.log(userTwo.email);// hitesh@google.com
+
+/* 
+userOne and userTwo are object types so they use the Heap Memory Type.
+ */

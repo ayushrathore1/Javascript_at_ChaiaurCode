@@ -207,6 +207,10 @@ console.log(booleanisLoggedIn); // false
 
 */
 
+
+
+/*
+
 let someNumber = 153
 
 console.log(typeof someNumber); // number
@@ -216,7 +220,58 @@ console.log(typeof stringNumber); // String
 
 console.log(someNumber); // 153
 
+*/
 
 
 
-//      To be continued      //
+
+//                   Operations                        //
+
+
+
+let value = 3
+let negValue = -value  
+// console.log(negValue); //  -3
+
+// console.log(2+2); // addition
+// console.log(2-2); // subtraction
+// console.log(2*2); // multiplication
+// console.log(2/2); // division
+// console.log(2**2); // power
+// console.log(2%2); // remainder
+
+let str1 = "Jai"
+let str2 = " Ho"
+let str3 = str1 + str2 
+// console.log(str3); // Jai Ho
+
+// console.log("1" + 2); // 12
+// console.log(1 + "2"); // 12
+// console.log("1" + 2 + 2); // 122
+// console.log(1 + 2 + "2"); // 32
+// console.log(1 + "2" + 2); // 122
+// console.log(1 + "2" + 2); // 122
+// console.log(true); // true
+// console.log(+true); // 1
+// //console.log(true+); // error
+// console.log(+""); // 0
+
+let num1, num2, num3
+
+num1 = num2 = num3 = 2 + 2
+
+/*
+
+let gameCounter = 100
+gameCounter++; // postfix
+console.log(gameCounter); // 101
+
+++gameCounter; // prefix
+console.log(gameCounter); // 101 
+
+*/
+
+
+//                To be continued               // 
+ 
+
